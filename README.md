@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Yeşim Eylül Çimenci from CS101-002. I am a freshman at Bilkent.
 <!--
 **yesimeylulcimenci/yesimeylulcimenci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
